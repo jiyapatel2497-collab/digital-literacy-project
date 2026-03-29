@@ -3,8 +3,6 @@ DIGITAL LITERACY
 Name: Jiya Patel
 Registration No: 25BAI10520
 
-Here’s a clean, professional README.md you can directly use for your Digital Literacy Project (perfect for GitHub 👇)
-
 Digital Literacy Project
 
 Project Overview
